@@ -1,1 +1,3 @@
+Hey this is me adding changes from another computer. I will commit it.
+
 Hi this is my first commit
